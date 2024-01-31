@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+
+    {{list}} <br>
+
+    {{ list | join:" - " }}
+
+    <h2>{{ to_day | date }}</h2>
+
+    <h1>{{"Python is Fun" | cut:" "}}</h1>
+    
+
+    {{list | length}}
+
+    <br>
+
+    {{'Happy Journey' | truncatechars:6}}
+<br>
+    {{ 78 | add:"2" }}
+
+    <br>
+
+    
+   <h1> {{ "Im mb'v imon" | addslashes }} </h1>
+
+   <h1>Capfirst : {{ "imon" | capfirst }}</h1>
+
+   <h1>to center :"{{ "imon" | center:"15" }}"</h1>
+
+   <h1>{{ "" | default:"nothing" }}</h1>
+
+
+   <h1>{{ value | dictsort:"name" }}</h1>
+
+   <h2>{{ value | linenumbers }}</h2>
+
+   <h1>title : {{ "my name is imon" | title }}</h1>
+
+   <h1>upper : {{ "my name is imon" | upper }}</h1>
+
+   <h1>wordcount : {{ "my name is imon" | wordcount }}</h1>
+   
+   <h1>tslugify : {{ "my name is imon" | slugify }}</h1>
+
+
+</body>
+</html>
