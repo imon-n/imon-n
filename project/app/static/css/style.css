@@ -1,0 +1,13 @@
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-top{
+    width: 286px;
+    border-radius: 8px;
+}
