@@ -1,0 +1,57 @@
+.home{
+    text-align: center;
+}
+
+.home img {
+    width: 400px;
+    padding: 20px;
+}
+
+.abt{
+    text-align: center;
+}
+
+.abt img {
+    width: 400px;
+    padding: 20px;
+}
+
+.search-box{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}    
+#search-btn1{
+    padding: 10px 20px;
+    background-color: aqua;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+}
+#search-btn2{
+    padding: 10px 20px;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+}
+#search-btn3{
+    padding: 10px 20px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+}
+#search-btn4{
+    padding: 10px 20px;
+    background-color: navajowhite;
+    border: none;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+}
