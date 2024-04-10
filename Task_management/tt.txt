@@ -1,0 +1,8 @@
+
+In this project, users should be able to: 
+
+2.In the Show Tasks Page users can see all the tasks in bootstrap card style, for every task there will be two buttons Edit Delete  . For completed tasks the user won’t see the edit and delete button rather see Completed. (Marks - 15)
+
+3.An User can edit the task, delete the task, complete the task. When a task is completed then the is_completed will be True.                               (Marks - 10)
+
+
