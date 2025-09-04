@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon-n&label=Profile%20views&color=0e75b6&style=flat" alt="imon-n" /> </p>
 
-- 🌱 I’m currently learning **Express Js, Node Js, MongoDB**
+- 🌱 I’m currently learning **Next js, Redux and Computer Vision**
 
 - 📫 How to reach me **imon.eeecu@gmail.com**
 
