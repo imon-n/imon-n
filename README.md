@@ -1,11 +1,5 @@
 ![logo](https://github.com/imon-n/imon-n/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
 
-<img
-  align="right"
-  width="400"
-  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
-  alt="Coding"
-/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon-n&label=Profile%20views&color=0e75b6&style=flat" alt="imon-n" /> </p>
 
