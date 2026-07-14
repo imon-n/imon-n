@@ -49,16 +49,16 @@ I am an Electrical and Electronic Engineering (EEE) student at the University of
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a></p>
 
-<!-- ================= GitHub Analytics ================= -->
+
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=imon-n&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=imon-n&hide_border=true" />
 </p>
