@@ -6,12 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon-n&label=Profile%20views&color=0e75b6&style=flat" alt="imon-n" /> </p>
 <h1 align="center">Hi 👋, I'm Nur Mohammad Imon</h1>
 
-<h3 align="center">
-Electrical & Electronic Engineering Student |
-Full Stack Web Developer |
-Networking Enthusiast
-</h3>
-## 👨‍💻 About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Electrical+%26+Electronic+Engineering+Student;Full+Stack+Web+Developer;Networking+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation"/>
+</p>
+
 
 I am an Electrical and Electronic Engineering (EEE) student at the University of Chittagong with a strong passion for Full Stack Web Development, Computer Networking, and AI-powered applications. I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 
