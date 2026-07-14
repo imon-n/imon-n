@@ -4,8 +4,24 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon-n&label=Profile%20views&color=0e75b6&style=flat" alt="imon-n" /> </p>
+<h1 align="center">Hi 👋, I'm Nur Mohammad Imon</h1>
 
-- 🌱 I’m currently learning **Socket.io,Computer Vision**
+<h3 align="center">
+Electrical & Electronic Engineering Student |
+Full Stack Web Developer |
+Networking Enthusiast
+</h3>
+## 👨‍💻 About Me
+
+I am an Electrical and Electronic Engineering (EEE) student at the University of Chittagong with a strong passion for Full Stack Web Development, Computer Networking, and AI-powered applications. I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+
+## 🚀 Current Activities
+
+- 🌱 Learning **Socket.IO** and **Computer Vision**
+- 💻 Building a **Tutor Management System** using Next.js & Express.js
+- 📚 Practicing Data Structures & Algorithms
+- 🌐 Exploring Networking and System Design
+- 🚀 Learning scalable backend architecture with Prisma & PostgreSQL
 
 - 📫 How to reach me **imon.eeecu@gmail.com**
 
