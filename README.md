@@ -49,9 +49,24 @@ I am an Electrical and Electronic Engineering (EEE) student at the University of
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imon-n&show_icons=true&locale=en&layout=compact" alt="imon-n" /></p>
+<!-- ====================== GitHub Stats ====================== -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&locale=en" alt="imon-n" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imon-n&" alt="imon-n" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imon-n&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imon-n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<!-- ====================== Activity Graph ====================== -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imon-n&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
