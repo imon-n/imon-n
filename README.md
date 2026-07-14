@@ -49,24 +49,16 @@ I am an Electrical and Electronic Engineering (EEE) student at the University of
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a></p>
 
-<!-- ====================== GitHub Stats ====================== -->
+<!-- ================= GitHub Analytics ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imon-n&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imon-n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<!-- ====================== Activity Graph ====================== -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imon-n&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=imon-n&theme=github-dark-blue&hide_border=true" />
 </p>
