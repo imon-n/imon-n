@@ -51,14 +51,13 @@ I am an Electrical and Electronic Engineering (EEE) student at the University of
 
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imon-n&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon-n&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=imon-n&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=imon-n&theme=transparent&hide_border=true" />
 </p>
